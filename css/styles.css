@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  padding: 40px;
+}
+
+main {
+  margin-top: 80px;
+}
+
+input {
+  width: 20%;
+  height: 35px;
+  padding: 5px;
+}
+
+table {
+  width: 80%;
+  margin: 0 auto;
+}
+
+table , td, th {
+  border: 1px solid #595959;
+  border-collapse: collapse;
+  padding: 10px;
+}
+
+th,
+td {
+  height: 40px;
+}
+
+
+thead {
+  background-color: #666;
+  color: #fff;
+}
